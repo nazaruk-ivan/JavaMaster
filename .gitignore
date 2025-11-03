@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+build/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled Java class files
+*.class
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Maven/Gradle (if added later)
+target/
+.gradle/
+*.jar
+*.war
+*.ear
+
+# VS Code (if used)
+.vscode/
+
+# Backup or system files
+Thumbs.db
